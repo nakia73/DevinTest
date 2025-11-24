@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - devin/1763958314-calculator-app
   workflow_dispatch:
 
 permissions:
